@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://bolajahmad.github.io/csb-mpehx/static/css/main.cbac9d7a.chunk.css",
+    "main.js": "https://bolajahmad.github.io/csb-mpehx/static/js/main.82943ac5.chunk.js",
+    "main.js.map": "https://bolajahmad.github.io/csb-mpehx/static/js/main.82943ac5.chunk.js.map",
+    "runtime-main.js": "https://bolajahmad.github.io/csb-mpehx/static/js/runtime-main.8356187c.js",
+    "runtime-main.js.map": "https://bolajahmad.github.io/csb-mpehx/static/js/runtime-main.8356187c.js.map",
+    "static/css/2.e495dbae.chunk.css": "https://bolajahmad.github.io/csb-mpehx/static/css/2.e495dbae.chunk.css",
+    "static/js/2.6e94f49f.chunk.js": "https://bolajahmad.github.io/csb-mpehx/static/js/2.6e94f49f.chunk.js",
+    "static/js/2.6e94f49f.chunk.js.map": "https://bolajahmad.github.io/csb-mpehx/static/js/2.6e94f49f.chunk.js.map",
+    "index.html": "https://bolajahmad.github.io/csb-mpehx/index.html",
+    "static/css/2.e495dbae.chunk.css.map": "https://bolajahmad.github.io/csb-mpehx/static/css/2.e495dbae.chunk.css.map",
+    "static/css/main.cbac9d7a.chunk.css.map": "https://bolajahmad.github.io/csb-mpehx/static/css/main.cbac9d7a.chunk.css.map",
+    "static/js/2.6e94f49f.chunk.js.LICENSE.txt": "https://bolajahmad.github.io/csb-mpehx/static/js/2.6e94f49f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8356187c.js",
+    "static/css/2.e495dbae.chunk.css",
+    "static/js/2.6e94f49f.chunk.js",
+    "static/css/main.cbac9d7a.chunk.css",
+    "static/js/main.82943ac5.chunk.js"
+  ]
+}
